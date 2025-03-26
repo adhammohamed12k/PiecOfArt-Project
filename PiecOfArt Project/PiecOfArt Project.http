@@ -1,0 +1,6 @@
+@PiecOfArt_Project_HostAddress = http://localhost:5122
+
+GET {{PiecOfArt_Project_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
